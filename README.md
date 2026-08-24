@@ -1,6 +1,6 @@
 # Hi, I'm Arpit Pal 👋
 
-### MBA Data Science & AI | Data Analytics | Machine Learning | Python | SQL
+### MBA Data Science & AI | Data Analyst | Data Science | Python | SQL | ML
 
 I'm an **MBA candidate specializing in Data Science & Artificial Intelligence** with a background in **Electronics & Communication Engineering**.
 
@@ -10,16 +10,25 @@ I am focused on building practical, data-driven solutions using **Python, SQL, d
 
 ## 👨‍💻 About Me
 
-* 🎓 Pursuing **MBA in Data Science & Artificial Intelligence** at Chandigarh University
-* 🎓 B.Tech in **Electronics & Communication Engineering** from PSIT Kanpur
-* 📊 Interested in **Data Analytics, Data Science, Machine Learning, and AI**
-* 🐍 Working with **Python** for data analysis and machine learning
-* 🗄️ Developing skills in **SQL** and data-driven problem solving
-* 📈 Interested in **Power BI and business intelligence**
-* 🤖 Building practical machine learning projects
-* 📚 Continuously improving my skills through projects and hands-on learning
-* 🎯 Currently seeking opportunities in **Data Analytics, Data Science, Machine Learning, and AI**
+I'm an **MBA candidate specializing in Data Science & Artificial Intelligence**
+with a background in **Electronics & Communication Engineering**.
 
+I build practical, end-to-end projects focused on turning data into
+business insights, predictive models, and AI-powered solutions.
+
+### Currently working with
+
+- 🐍 Python, Pandas & NumPy
+- 🗄️ SQL
+- 📊 Data Analytics & EDA
+- 🤖 Machine Learning
+- 📈 Power BI & Business Intelligence
+- 🧠 Generative AI
+- 📓 Jupyter & Git/GitHub
+
+### Career Interests
+
+**Data Analytics | Data Science | Machine Learning | Business Intelligence | AI**
 ---
 
 ## 🛠️ Technical Skills
@@ -52,25 +61,30 @@ I am focused on building practical, data-driven solutions using **Python, SQL, d
 
 ## 🚀 Featured Projects
 
-> My portfolio is currently being upgraded with end-to-end projects focused on real-world business and data problems.
+### 📊 Customer Segmentation
+Customer segmentation project using customer behavior, revenue, transaction,
+demographic, and engagement features to identify meaningful customer groups.
 
-### 🏠 Real Estate Price Prediction
+**Focus:** `Python` `Pandas` `EDA` `Feature Engineering` `K-Means` `Business Analytics`
 
-Machine learning project focused on predicting real-estate prices through data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
+### 🤖 AI Sales Intelligence Agent
+Generative AI-powered sales intelligence system that analyzes regional
+sales performance and produces structured business recommendations.
 
-**Focus:** `Python` `Pandas` `Scikit-learn` `Machine Learning`
+**Focus:** `Python` `Generative AI` `Groq` `Business Intelligence` `Prompt Engineering`
 
-### 📊 Sales Analytics
+### 💼 Job Market Intelligence
+End-to-end analysis of analytics and data science job-market data, including
+skill demand, role demand, salary intelligence, and machine-learning-based
+salary prediction.
 
-An upcoming end-to-end analytics project combining data analysis, SQL, and Power BI to generate actionable business insights.
+**Focus:** `Python` `Pandas` `Machine Learning` `NLP/Skills Analysis` `Career Analytics`
 
-**Focus:** `SQL` `Python` `Power BI` `Data Analytics`
+### 📦 Retail Demand Forecasting
+Retail demand forecasting and inventory intelligence project using historical
+demand, seasonality, lag features, rolling statistics, and machine learning.
 
-### 👥 Customer Churn Prediction
-
-An upcoming machine learning project designed to identify customers at risk of leaving and understand the factors associated with customer churn.
-
-**Focus:** `Python` `Machine Learning` `Classification` `Business Analytics`
+**Focus:** `Python` `Time Series` `Feature Engineering` `Random Forest` `Forecasting`
 
 ---
 
