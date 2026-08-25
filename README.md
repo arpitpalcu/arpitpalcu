@@ -108,7 +108,7 @@ I'm currently focused on strengthening my practical skills in:
 * SQL
 * Machine Learning
 * Power BI
-* Statistics
+* Statistic
 * Python
 * Generative AI
 
