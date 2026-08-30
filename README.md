@@ -10,11 +10,7 @@ I am focused on building practical, data-driven solutions using **Python, SQL, d
 
 ## 👨‍💻 About Me
 
-I'm an **MBA candidate specializing in Data Science & Artificial Intelligence**
-with a background in **Electronics & Communication Engineering**.
-
-I build practical, end-to-end projects focused on turning data into
-business insights, predictive models, and AI-powered solutions.
+I build practical, end-to-end data projects using Python, SQL, Power BI, and machine learning—turning raw data into business insights, predictive models, and clear recommendations.
 
 ### Currently working with
 
