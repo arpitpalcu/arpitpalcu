@@ -49,7 +49,7 @@ I build practical, end-to-end data projects using Python, SQL, Power BI, and mac
 
 `Exploratory Data Analysis` `Statistical Analysis` `Data Cleaning` `Data Visualization`
 
-### Certification
+### Certifications
 
 **SAS Certified Associate: Modeling Using SAS Visual Statistics**
 
